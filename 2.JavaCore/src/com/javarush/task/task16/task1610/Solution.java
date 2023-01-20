@@ -1,7 +1,7 @@
 package com.javarush.task.task16.task1610;
 
 /* 
-Расставь вызовы методов join()
+join()
 */
 
 public class Solution {
