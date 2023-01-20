@@ -1,7 +1,7 @@
 package com.javarush.task.task16.task1612;
 
 /* 
-Stopwatch (Секундомер)
+Stopwatch
 */
 
 public class Solution {
