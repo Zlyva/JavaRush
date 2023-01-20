@@ -1,7 +1,7 @@
 package com.javarush.task.task16.task1611;
 
 /* 
-Часы
+Clock
 */
 
 public class Solution {
