@@ -4,10 +4,6 @@ package com.javarush.task.task16.task1613;
 Big Ben clock
 */
 
-import java.sql.Time;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.util.Calendar;
 
 public class Solution {
     public static volatile boolean isStopped = false;
