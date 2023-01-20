@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /* 
-join: в нужное время в нужном месте
+join
 */
 
 public class Solution {
