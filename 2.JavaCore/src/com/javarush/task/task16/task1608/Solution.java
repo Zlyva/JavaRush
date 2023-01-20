@@ -1,7 +1,7 @@
 package com.javarush.task.task16.task1608;
 
 /* 
-Продвижение на политических дебатах
+Advancement in political debates
 */
 
 public class Solution {
