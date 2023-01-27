@@ -1,7 +1,7 @@
 package com.javarush.task.task16.task1621;
 
 /* 
-Thread.currentThread - всегда возвращает текущую нить
+Thread.currentThread
 */
 
 public class Solution {
