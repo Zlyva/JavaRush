@@ -23,7 +23,7 @@ public class Solution {
         }
 
         public void printMsg() {
-            Thread t = Thread.currentThread();//присвой переменной t текущую нить
+            Thread t = Thread.currentThread();
             String name = t.getName();
             System.out.println("Name=" + name);
             try {
@@ -32,7 +32,7 @@ public class Solution {
                 e.printStackTrace();
             }
 
-            //add sleep here - добавь sleep тут
+
         }
     }
 }
