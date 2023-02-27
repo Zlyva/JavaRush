@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
 /* 
-Минимальный байт
+minByte
 */
 
 public class Solution {
