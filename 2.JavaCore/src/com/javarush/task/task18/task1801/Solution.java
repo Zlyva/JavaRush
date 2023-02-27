@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
 /* 
-Максимальный байт
+maxByte
 */
 
 public class Solution {
